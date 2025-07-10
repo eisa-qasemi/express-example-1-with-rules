@@ -1,0 +1,25 @@
+{
+  "name": "express-projects-api",
+  "version": "1.0.0",
+  "description": "Express.js API for managing projects data",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "helmet": "^8.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  },
+  "keywords": [
+    "express",
+    "api",
+    "projects"
+  ],
+  "author": "",
+  "license": "MIT"
+}
